@@ -1,19 +1,18 @@
-[
-  {
-    "outputType": {
-      "type": "APK"
-    },
-    "apkInfo": {
-      "type": "MAIN",
-      "splits": [],
-      "versionCode": 48,
-      "versionName": "0.4.8",
-      "enabled": true,
-      "outputFile": "JSCKitDemo.apk",
-      "fullName": "release",
-      "baseName": "release"
-    },
-    "path": "JSCKitDemo.apk",
-    "properties": {}
-  }
-]
+
+{
+  "outputType": {
+    "type": "APK"
+  },
+  "apkInfo": {
+    "type": "MAIN",
+    "splits": [],
+    "versionCode": 48,
+    "versionName": "0.4.8",
+    "enabled": true,
+    "outputFile": "JSCKitDemo.apk",
+    "fullName": "release",
+    "baseName": "release"
+  },
+  "path": "JSCKitDemo.apk",
+  "properties": {}
+}
