@@ -6,13 +6,13 @@
   "apkInfo": {
     "type": "MAIN",
     "splits": [],
-    "versionCode": 48,
-    "versionName": "0.4.8",
+    "versionCode": 1,
+    "versionName": "0.0.1",
     "enabled": true,
-    "outputFile": "JSCKitDemo.apk",
+    "outputFile": "wharf.apk",
     "fullName": "release",
     "baseName": "release"
   },
-  "path": "JSCKitDemo.apk",
+  "path": "wharf.apk",
   "properties": {}
 }
