@@ -9,10 +9,10 @@
     "versionCode": 1,
     "versionName": "0.0.1",
     "enabled": true,
-    "outputFile": "wharf.apk",
+    "outputFile": "wharf_dev.apk",
     "fullName": "release",
     "baseName": "release"
   },
-  "path": "wharf.apk",
+  "path": "wharf_dev.apk",
   "properties": {}
 }
